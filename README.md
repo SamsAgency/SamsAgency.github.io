@@ -8,7 +8,7 @@ Portfolio Website
 Home Link: https://samsagency.github.io/Portfolio%20Website/index.html
 
 Resume Website
-Home Link: https://samsagency.github.io/Resume%20Website/index.htmlResume 
+Home Link: https://samsagency.github.io/Resume%20Website/index.html
 
 Hotel
 Home Link: https://samsagency.github.io/Hotel/index.html
